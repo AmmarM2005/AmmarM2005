@@ -133,7 +133,7 @@ def compute_languages(repos: list[dict]) -> list[dict]:
         seen_in_repo = set()
         for edge in repo["languages"]["edges"]:
             name = edge["node"]["name"]
-            color = edge["node"]["color"] or "#8b8b8b"
+            color = edge["node"]["color"] or "#57606a"
             size = edge["size"]
             entry = totals.setdefault(name, {"bytes": 0, "repos": 0, "color": color})
             entry["bytes"] += size
@@ -171,9 +171,9 @@ def hero_svg(total: int, days: list[dict]) -> str:
                      f'height="{bh:.1f}" fill="#39d353" rx="1"/>')
     body = (
         f'<text x="10" y="30" font-family="ui-monospace,monospace" font-size="26" '
-        f'fill="#c9d1d9">{total:,}</text>'
+        f'fill="#24292f">{total:,}</text>'
         f'<text x="10" y="46" font-family="ui-monospace,monospace" font-size="11" '
-        f'fill="#8b949e">contributions, last 365 days</text>'
+        f'fill="#57606a">contributions, last 365 days</text>'
         + "".join(bars)
     )
     return svg_wrap(w, h, body, "contribution total and weekly sparkline")
@@ -183,13 +183,13 @@ def streak_svg(streaks: dict) -> str:
     w, h = 460, 90
     body = (
         f'<text x="10" y="28" font-family="ui-monospace,monospace" font-size="20" '
-        f'fill="#c9d1d9">current streak: {streaks["current"]}d</text>'
+        f'fill="#24292f">current streak: {streaks["current"]}d</text>'
         f'<text x="10" y="46" font-family="ui-monospace,monospace" font-size="11" '
-        f'fill="#8b949e">through {streaks["current_end"]}</text>'
+        f'fill="#57606a">through {streaks["current_end"]}</text>'
         f'<text x="10" y="68" font-family="ui-monospace,monospace" font-size="20" '
-        f'fill="#c9d1d9">longest streak: {streaks["longest"]}d</text>'
+        f'fill="#24292f">longest streak: {streaks["longest"]}d</text>'
         f'<text x="10" y="84" font-family="ui-monospace,monospace" font-size="11" '
-        f'fill="#8b949e">ending {streaks["longest_end"]}</text>'
+        f'fill="#57606a">ending {streaks["longest_end"]}</text>'
     )
     return svg_wrap(w, h, body, "current and longest contribution streak")
 
@@ -206,12 +206,12 @@ def langs_svg(langs: list[dict]) -> str:
         bar_w = pct / 100 * 260
         rows.append(
             f'<text x="10" y="{y}" font-family="ui-monospace,monospace" font-size="12" '
-            f'fill="#c9d1d9">{l["name"]}</text>'
+            f'fill="#24292f">{l["name"]}</text>'
             f'<rect x="120" y="{y - 10}" width="260" height="10" fill="#21262d" rx="2"/>'
             f'<rect x="120" y="{y - 10}" width="{bar_w:.1f}" height="10" '
             f'fill="{l["color"]}" rx="2"/>'
             f'<text x="390" y="{y}" font-family="ui-monospace,monospace" font-size="11" '
-            f'fill="#8b949e">{pct:.0f}%</text>'
+            f'fill="#57606a">{pct:.0f}%</text>'
         )
     return svg_wrap(w, h, "".join(rows), "top languages by bytes")
 
@@ -272,3 +272,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
