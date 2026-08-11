@@ -1,0 +1,319 @@
+<svg viewBox="0 0 696.6 863.2" width="460"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ASCII self-portrait">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.0s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="0" y="16.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.09s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="0" y="33.2" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.18s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="49.800000000000004" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.27s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="0" y="66.4" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.36s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="0" y="83.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.45s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="99.60000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.54s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip7">
+      <rect x="0" y="116.20000000000002" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.63s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="0" y="132.8" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.72s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="0" y="149.4" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.81s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip10">
+      <rect x="0" y="166.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.9s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip11">
+      <rect x="0" y="182.60000000000002" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="0.99s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip12">
+      <rect x="0" y="199.20000000000002" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.08s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip13">
+      <rect x="0" y="215.8" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.17s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip14">
+      <rect x="0" y="232.40000000000003" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.26s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip15">
+      <rect x="0" y="249.00000000000003" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.35s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip16">
+      <rect x="0" y="265.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.44s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip17">
+      <rect x="0" y="282.20000000000005" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.53s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip18">
+      <rect x="0" y="298.8" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.62s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip19">
+      <rect x="0" y="315.40000000000003" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.71s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip20">
+      <rect x="0" y="332.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.8s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip21">
+      <rect x="0" y="348.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.89s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip22">
+      <rect x="0" y="365.20000000000005" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="1.98s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip23">
+      <rect x="0" y="381.8" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.07s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip24">
+      <rect x="0" y="398.40000000000003" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.16s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip25">
+      <rect x="0" y="415.00000000000006" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.25s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip26">
+      <rect x="0" y="431.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.34s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip27">
+      <rect x="0" y="448.20000000000005" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.43s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip28">
+      <rect x="0" y="464.80000000000007" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.52s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip29">
+      <rect x="0" y="481.40000000000003" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.61s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip30">
+      <rect x="0" y="498.00000000000006" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.7s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip31">
+      <rect x="0" y="514.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.79s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip32">
+      <rect x="0" y="531.2" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.88s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip33">
+      <rect x="0" y="547.8000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="2.97s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip34">
+      <rect x="0" y="564.4000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.06s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip35">
+      <rect x="0" y="581.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.15s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip36">
+      <rect x="0" y="597.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.24s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip37">
+      <rect x="0" y="614.2" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.33s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip38">
+      <rect x="0" y="630.8000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.42s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip39">
+      <rect x="0" y="647.4000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.51s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip40">
+      <rect x="0" y="664.0" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.6s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip41">
+      <rect x="0" y="680.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.69s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip42">
+      <rect x="0" y="697.2" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.78s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip43">
+      <rect x="0" y="713.8000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.87s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip44">
+      <rect x="0" y="730.4000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="3.96s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip45">
+      <rect x="0" y="747.0000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.05s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip46">
+      <rect x="0" y="763.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.14s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip47">
+      <rect x="0" y="780.2" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.23s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip48">
+      <rect x="0" y="796.8000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.32s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip49">
+      <rect x="0" y="813.4000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.41s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip50">
+      <rect x="0" y="830.0000000000001" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="clip51">
+      <rect x="0" y="846.6" width="0" height="16.6">
+        <animate attributeName="width" from="0" to="696.6"
+                 dur="0.5s" begin="4.59s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" fill="none" />
+  <text x="0" y="12.5" clip-path="url(#clip0)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                                                                                          </text><text x="0" y="29.1" clip-path="url(#clip1)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                                          .....                                           </text><text x="0" y="45.7" clip-path="url(#clip2)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                                  ...`:-=+****++=-:`..                                    </text><text x="0" y="62.3" clip-path="url(#clip3)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                             ..`-+cs#%%%%%%%%%@@@%%%s*-`.                                 </text><text x="0" y="78.8" clip-path="url(#clip4)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                          ..-c#@@@@@@@@@@@@@@@%@@@%%%%%%s-..                              </text><text x="0" y="95.5" clip-path="url(#clip5)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                        .`+#@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@%c=`.                           </text><text x="0" y="112.1" clip-path="url(#clip6)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                      .`*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*:.                         </text><text x="0" y="128.7" clip-path="url(#clip7)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                    .:*@@@@@@@@@@@@@%%@@@%%%%%%%@@@@@@@@@@@@@@@@s=.                       </text><text x="0" y="145.2" clip-path="url(#clip8)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                   .+@@@@@@@@@@@@@%%#ssccc*++=++*cs%@@@@@@@@@@@@@@s-.                     </text><text x="0" y="161.8" clip-path="url(#clip9)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  .=@@@@@@@%#ssc**++++++=--::::---+*s#%@@@@@@@@@@@@%-.                    </text><text x="0" y="178.5" clip-path="url(#clip10)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  `%@@@@@@%sc**++=------::::``:::-+*ccs#%%@@@@@@@@@@#`                    </text><text x="0" y="195.1" clip-path="url(#clip11)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 .-%@@@@@%sc**++++==----:::::::-=++**cccss#%@@@@@@@@@=.                   </text><text x="0" y="211.7" clip-path="url(#clip12)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 .-@@@@@%sc**++++++==-------::--=++****cccc#%@@@@@@@@=.                   </text><text x="0" y="228.3" clip-path="url(#clip13)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 .c@@@@@%sc*++++++==--------::::-=++******c#%@@@@@@@@=.                   </text><text x="0" y="244.9" clip-path="url(#clip14)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 `#@@@@@%sc+======-::::::````````::-==+++**c#%@@@@@@@%:                   </text><text x="0" y="261.5" clip-path="url(#clip15)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 .s@@@@@#sc******++=----:````:=+*csss###sc***s%@@@@@@#`                   </text><text x="0" y="278.1" clip-path="url(#clip16)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                 .+@@@@#s#%@@%@@@@@%##sc+===+c%@@@c-+css####c*s%@@@@@+.                   </text><text x="0" y="294.7" clip-path="url(#clip17)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  `#@@@#%%%sc**c##s::+s#s*=cs#s%%%s*ccssscc**cc+s@@@@=.                   </text><text x="0" y="311.3" clip-path="url(#clip18)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  .=@%%##%%%%%%%%%%%%#%@%c+s%#%%@@#%@@@%@@%#ss##%%@@%-`.                  </text><text x="0" y="327.9" clip-path="url(#clip19)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                   `#%@#%@@@##@@@%s%@@%%s=:=s%#%%#*s%%@#%@@%sccs%@@cc##-.                 </text><text x="0" y="344.5" clip-path="url(#clip20)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  ..=@@##%@%%####sss#%##*:`:+c#sscssssssccc***c#%@%#c##-.                 </text><text x="0" y="361.1" clip-path="url(#clip21)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  `s%@@%ssssccccc**cs#ss+-`-+*csc+-----::::-+c#%@@%#*cc:                  </text><text x="0" y="377.7" clip-path="url(#clip22)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  `#%%@%#c+-::::::=c#sc*=:`:-+**sc=:`....``:=c#%@%+++++.                  </text><text x="0" y="394.3" clip-path="url(#clip23)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  .*sc%%#c=::````:*s*+++=:.`=**+*s#+=::`:::-+cs%@#+*+c-.                  </text><text x="0" y="410.9" clip-path="url(#clip24)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                  .+c*s%#c*++----+c%#%%%%##%%@@@@@#c*+--==++cs%@@s*c#*.                   </text><text x="0" y="427.5" clip-path="url(#clip25)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                   :scs%%#c*+===+**#@@@@@@@@@@@@@@%ssc**css#%%%@s+*c+.                    </text><text x="0" y="444.1" clip-path="url(#clip26)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                   .+#s#%%%##c**#%%@@@@@%sc*s%@@%@@@@@%cs##%%#%#`:-:.                     </text><text x="0" y="460.7" clip-path="url(#clip27)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                    .-cs%%%%#sc#@@@@@@@@%%###%#%%@@@@%%cscs%#s%*.                         </text><text x="0" y="477.3" clip-path="url(#clip28)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                      ..:%%%#sc*ss%%#c*=-`::``:-=c##*==*cc##s%@-.                         </text><text x="0" y="493.9" clip-path="url(#clip29)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                        .-%%%#c*=-+s#sc+-:```:+cssc+--+cc#%#@@%:.                         </text><text x="0" y="510.5" clip-path="url(#clip30)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                         .`s@@%s*++*css#sssccsssc*+==+cs#%@@@%#`                          </text><text x="0" y="527.1" clip-path="url(#clip31)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                           .-s@@%s****csssccc*+==--=*cs%@@@@%%#:..                        </text><text x="0" y="543.7" clip-path="url(#clip32)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                             `@@@%c+==-::```.````:-*c#@@@@%%###=ss-.                      </text><text x="0" y="560.3" clip-path="url(#clip33)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                             .*@@@@#c+=-:::::::-=*s%@@@@%%#ssss-=@@c`.                    </text><text x="0" y="576.9" clip-path="url(#clip34)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                             .:%%@@@@@%sccccsss#%@@@@@%##scccs+:-%@@%+.                   </text><text x="0" y="593.5" clip-path="url(#clip35)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                              .s%##%@@@@@@@@@@@@@@%%%#ssc****-::*@@@@@%+.                 </text><text x="0" y="610.1" clip-path="url(#clip36)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                             .:+%###%%%%%#sccs######scc****=```=%@@@@@@@#+`..             </text><text x="0" y="626.7" clip-path="url(#clip37)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                            .+*=#####%%%%#sccss##ssscc**+=`.``-%@@@@@@@@@@%#s*=`.         </text><text x="0" y="643.3" clip-path="url(#clip38)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                         ..:*%+=+#####%%%%#sssssssscc**=`...`-%@@@@@@@@@@@@@@@@%#*-..     </text><text x="0" y="659.9" clip-path="url(#clip39)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                    ..:=c#@@@#==-+##s#%%%##sssssssccc+:`....-%@@@@@@@@@@%%%%%@@@@%%#*-..  </text><text x="0" y="676.5" clip-path="url(#clip40)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">                ..-+s%@@@@@@@s--=-=#%##%%#sssssssss+:``....`#@@@@@@@@@%%%%%%%%@@@%%%%%#c+:</text><text x="0" y="693.1" clip-path="url(#clip41)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">           ..`-*s%@@@@@@@@@@@c`:-=--s%%%%%#ss####*-```....`s@@@@@@@@%%%%%%%%%%@@@%%%%%%%##</text><text x="0" y="709.7" clip-path="url(#clip42)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">      ..`-+c#%@@@@@@@@@@@@@@@c:``:---c%%%%%##%#c-:```````:s@@@%%@@@%%%%%%%%#%%@@@%%%%%####</text><text x="0" y="726.3" clip-path="url(#clip43)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">  ..:+c#@@@@@@@@@@@@@@@@@@@@@c=`````::=sss###c:``````::::s@@@@@%%%%%%%%%%%%@%%@@%%%%%%%%##</text><text x="0" y="742.9" clip-path="url(#clip44)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">`=c%@@@@@@@@@@@@@@@@@@@@@@@@@c+:`...````+cc*-.....``:::`c@@@@@@%%%#%@@@@%%%##%@@%%%%%%%%##</text><text x="0" y="759.5" clip-path="url(#clip45)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@*=:`..`::-=+==.......`````+@@@@@@%%%%%#%%%#####%@@@%%%%%%####</text><text x="0" y="776.1" clip-path="url(#clip46)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+-::+s%%#scc*c+`....`````:%@@@@@@%%%%%%%%######%@@@%%%%######</text><text x="0" y="792.7" clip-path="url(#clip47)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@@@@@%@@@@@@@@@@@@@@@@@%+--#@@@%%#c*+++*+:..```.`#@@@@@@@@%%%%%%%##s##%@@%%%%%%%%####</text><text x="0" y="809.3" clip-path="url(#clip48)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@@%%%%%@@@@@@@@@@@@@@@%c*=**@@@@%#cc++*c#%s-...:s@@@@@@@@@%%%%%%%###@%@@%%#%%@@@%%%##</text><text x="0" y="825.9" clip-path="url(#clip49)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@%%%%%%@@@@@@@@@@@@@@@#*#s+=c@@@%s*++*c#%@%s*-=s@@@@@@@@@@%%%%%%##%@@@@%%%%@@@@@@%%%%</text><text x="0" y="842.5" clip-path="url(#clip50)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@%%%%%%@@@@@@@@@@@@@@@c+c#=`:#@@%s+==*s%@s===+*%@@@@@@@@@%%%%%%##%@@@@%#%@@@@@@@%%%%%</text><text x="0" y="859.1" clip-path="url(#clip51)" font-family="ui-monospace, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12.9" xml:space="preserve" fill="var(--portrait-fg, #39d353)">@@@@@@%%%%@@@@@@@@@@@@@@@@@++sss``=@@%s+=*s%%s-:::=%@@@@@@@@@@@%%%%##@@%@@%%%@@@@@@@%%%%%%</text>
+</svg>
