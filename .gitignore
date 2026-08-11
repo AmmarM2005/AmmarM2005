@@ -1,3 +1,4 @@
 .profile-venv/
 .venv/
 assets/photo/
+scripts/__pycache__/
